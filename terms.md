@@ -10,4 +10,4 @@ By using the TikTok Sports Content Automation Tool, you agree to the following t
 ## Changes to Terms
 - The developer reserves the right to update these terms without prior notice.
 
-Last Updated: [Insert Date]
+Last Updated: 10/30/2024
